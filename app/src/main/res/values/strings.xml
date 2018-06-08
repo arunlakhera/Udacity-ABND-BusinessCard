@@ -11,6 +11,9 @@
     <string name="website_lbl">Our Website</string>
     <string name="business_website">http://www.creativestrokes.co.in</string>
 
+    <string name="worktime_lbl">We are available (IST)</string>
+    <string name="worktime">Mon-Sun: 9 AM - 8 PM</string>
+
     <string name="facebook_link">https://www.facebook.com/EthnicCreativeStrokes/?ref=aymt_homepage_panel</string>
 
     <string name="business_phone">917895099770</string>
