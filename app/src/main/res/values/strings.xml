@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="business_name">Creative Strokes</string>
+
+    <string name="aboutus_lbl">About Us</string>
+    <string name="aboutus_desc">We specialize in variety of glass paintings using traditional Art form. You can contact us for custom made paintings as per occasion.</string>
+
+    <string name="add_lbl">Our Location</string>
+    <string name="business_add">New Delhi, India</string>
+
+    <string name="website_lbl">Our Website</string>
+    <string name="business_website">http://www.creativestrokes.co.in</string>
+
+    <string name="facebook_link">https://www.facebook.com/EthnicCreativeStrokes/?ref=aymt_homepage_panel</string>
+
+    <string name="business_phone">917895099770</string>
+</resources>
